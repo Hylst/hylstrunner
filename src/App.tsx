@@ -108,7 +108,7 @@ export default function App() {
                 HYLST
               </h1>
               <div className="text-2xl md:text-4xl font-light tracking-[0.3em] text-white/70 mt-2 anim-flicker">
-                R U N N E R
+                S H O O T E R
               </div>
               <div className="text-sm tracking-[0.4em] text-cyan-300/80 mt-4 font-mono">· COSMIC ODYSSEY ·</div>
             </div>
@@ -290,7 +290,7 @@ export default function App() {
             </div>
 
             <div className="text-center text-xs text-white/40 font-mono tracking-widest pt-4">
-              HYLPST RUNNER v1.0 · COSMIC ODYSSEY · © 2026
+              HYLST SHOOTER v1.0 · COSMIC ODYSSEY · © 2026
             </div>
           </div>
         </div>
