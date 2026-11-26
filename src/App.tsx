@@ -290,7 +290,7 @@ export default function App() {
             </div>
 
             <div className="text-center text-xs text-white/40 font-mono tracking-widest pt-4">
-              HYLST SHOOTER v1.0 · COSMIC ODYSSEY · © 2026
+              HYLST ASTRO v1.0 · COSMIC ODYSSEY · © 2026
             </div>
           </div>
         </div>

@@ -1,4 +1,4 @@
-# Hylst Shooter
+# Hylst Astro
 
 ```bash
 npm install

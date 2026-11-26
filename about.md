@@ -1,4 +1,4 @@
-# Hylst Shooter
+# Hylst Astro
 
 **Shoot-em-up cosmique** — Pilotez votre vaisseau à travers l'espace, esquivez les obstacles et anéantissez les vagues d'ennemis dans un univers néon électrique.
 
